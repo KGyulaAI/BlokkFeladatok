@@ -1,0 +1,18 @@
+ul {
+    width: 50%;
+    height: 2cm;
+    padding: 1cm 0 0 0;
+    border: 20px green dotted;
+    text-align: center;
+}
+
+li {
+    background-color: lightseagreen;
+    height: 1cm;
+    padding: 3mm;
+    list-style: none;
+}
+
+ul li {
+    display: inline;
+}
